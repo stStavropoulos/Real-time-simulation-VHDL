@@ -7,5 +7,5 @@ Power  system  partitioning  is  mainly  used  to  split  the  network in subnet
 ![alt text](https://user-images.githubusercontent.com/66972298/99831980-8ef5d200-2b68-11eb-8690-50d0f10e8935.png)
 ![alt text](https://user-images.githubusercontent.com/66972298/99832059-afbe2780-2b68-11eb-988e-b7281c516df2.png)
 
-# Test microgrid partitioned into 2 segments and implemented onto the FPGA:
+# Test microgrid partitioned into 2 segments and implemented onto the FPGA, simulated alternately:
 ![alt text](https://user-images.githubusercontent.com/66972298/99832121-c4022480-2b68-11eb-8bf1-6cb6b05676b3.png)
